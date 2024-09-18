@@ -61,6 +61,8 @@ To https://github.com/clayrr/Lab-1-Team-Contract.git
 
 mayas git push: 
 
+```sh
+
 mayarangarajan@mayas-MacBook-Air Lab-1-Team-Contract % git commit
 hint: Waiting for your editor to close the file... code --wait: code: command not found
 error: There was a problem with the editor 'code --wait'.
@@ -92,3 +94,5 @@ Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/clayrr/Lab-1-Team-Contract.git
    b8eff51..bebdae8  main -> main
+
+```
