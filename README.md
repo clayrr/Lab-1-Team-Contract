@@ -13,8 +13,8 @@
 
 ## 2) Skills 
 Maya - Python, Java, C#
-Ethan - 
-Claire - 
+ Ethan - 
+ Claire - 
 
 ## 3) General Meeting Schedule
 To meet, please email to message on git to set up a common time. Check the others' schedules before asking for a meeting period.
