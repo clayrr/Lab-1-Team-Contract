@@ -1,51 +1,52 @@
-## 1A) Schedule
+## 1) Schedule
 
 | Frees | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 |
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
 | A     |       |       |       |       |       |       |       |       |       |        |
-| B     | M    |       | M     |       | M     |       |       | M     |       | M      |
-| C     |   C   |     | C     |  C    | C     | C     |      | C     |  C    | C      |
+| B     |   M   |       |   M   |       |   M   |       |       |   M   |       |   M    |
+| C     |   C   |       | C     |  C    | C     | C     |       | C     |  C    | C      |
 | D     |       |   C   | M     |  C    |       |   C   |  C    | M     | C     |        |
 | E     |       |       |       |       |       |       |       |       |       |        |
 | F     | M     |       |       |       |       | M     |       |       |       |        |
 | G     |       | M     |       | M     |       | M     | M     |       | M     |        |
 | H     | M     | M     | M     | M     | M     | M     | M     | M     | M     | M      |
 
-## 2) Individual responsibilities
+## 2) Skills 
+Maya - Python, Java, C#
+Ethan - 
+Claire - 
 
-Each member is responsible for completing tasks & assignments before the assigned deadline. If an emergency occurs that impedes the completion of said deadline, or the member is otherwise unable to complete the task, they must communicate with the other team members well before the deadline.
-
-Members must be reachable. They are expected to respond to or otherwise acknowledge communications (**text, snap, Github Issues**, etc.) within 24hrs.
-
-Each member should respect teammates and provide help when needed. Nobody should make fun of anyone for not knowing something. 
+## 3) General Meeting Schedule
+To meet, please email to message on git to set up a common time. Check the others' schedules before asking for a meeting period.
 
 
-## 3) Roles
+## 4) Individual responsibilities
+
+Everyone is responsible to complete their work, which will be agreed upon earlier. If the work is not completed, they will be held accountable by their group mates and possibly Ms. Feng. 
+
+Please be kind and accept personal boundaries. 
+
+If you are not to be in class for ANY reasons (sickness, sports event, etc.), you MUST alert the group prior to class.  
+
+## 5) Roles
 
 Manager: Maya
 Presenter: Claire
 Note Taker: Ethan 
 
-## 4) Plan for Note-Keeping
+## 6) Plan for Note-Keeping
 
-Everyone is expected to take their own notes, but if someone is absent or has another valid reason, members will share notes for that time.  
+Please try to take your own notes. If you are absent, reach out and one of us will send you notes. 
 
-## 5) Accountability
+## 7) Accountability
 
-Individuals will be held accountable through the team contract. If a teammate is not reachable or not putting in the work then we will talk to them or even involve Ms. Feng. 
+Individuals will be held accountable through the team contract. Please try to complete all your work in a timely manner. 
 
-## 6) Conflict
+## 8) Conflict
 
-We will always discuss issues and whatever is going on maturely, though we will try to avoid conflict by keeping in constant communication. If we need extra help dealing with conflict, we can involve Ms. Feng. 
+Please be chill and don't get into conflict. If something arises, we will try to solve the issue first, and then involve Ms. Feng. 
 
-## 7) Code of Ethics
-
-- Act respectfully
-- Don’t be mean
-- Be chill/flexible
-- Help each other and work together
-- Stay in constant communication
-
+## Our Git Pushes
 
 ethans git push:
 
