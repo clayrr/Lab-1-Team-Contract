@@ -58,3 +58,37 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/clayrr/Lab-1-Team-Contract.git
    b97c915..e9ad4d8  main -> main
 ```
+
+mayas git push: 
+
+mayarangarajan@mayas-MacBook-Air Lab-1-Team-Contract % git commit
+hint: Waiting for your editor to close the file... code --wait: code: command not found
+error: There was a problem with the editor 'code --wait'.
+Please supply the message using either -m or -F option.
+mayarangarajan@mayas-MacBook-Air Lab-1-Team-Contract % git commit
+[main bebdae8] mayaisnothappywiththisterminal
+ Committer: maya rangarajan <mayarangarajan@mayas-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 11 insertions(+), 25 deletions(-)
+mayarangarajan@mayas-MacBook-Air Lab-1-Team-Contract % git pull 
+Already up to date.
+mayarangarajan@mayas-MacBook-Air Lab-1-Team-Contract % git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 380 bytes | 380.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/clayrr/Lab-1-Team-Contract.git
+   b8eff51..bebdae8  main -> main
