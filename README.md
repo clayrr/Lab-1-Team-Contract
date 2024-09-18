@@ -3,9 +3,9 @@
 | Frees | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 |
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
 | A     |       |       |       |       |       |       |       |       |       |        |
-| B     | M     |       | M     |       | M     |       |       | M     |       | M      |
-| C     |       |       |       |       |       |       |       |       |       |        |
-| D     |       |       | M     |       |       |       |       | M     |       |        |
+| B     | M    |       | M     |       | M     |       |       | M     |       | M      |
+| C     |   C   |     | C     |  C    | C     | C     |      | C     |  C    | C      |
+| D     |       |   C   | M     |  C    |       |   C   |  C    | M     | C     |        |
 | E     |       |       |       |       |       |       |       |       |       |        |
 | F     | M     |       |       |       |       | M     |       |       |       |        |
 | G     |       | M     |       | M     |       | M     | M     |       | M     |        |
@@ -21,6 +21,10 @@ Each member should respect teammates and provide help when needed. Nobody should
 
 
 ## 3) Roles
+
+Manager: Maya
+Presenter: Claire
+Note Taker: Ethan 
 
 ## 4) Plan for Note-Keeping
 
@@ -42,7 +46,6 @@ We will always discuss issues and whatever is going on maturely, though we will 
 - Help each other and work together
 - Stay in constant communication
 
-## Things TODO
 
 ethans git push:
 
