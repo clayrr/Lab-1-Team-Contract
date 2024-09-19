@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ## 2) Skills 
 Maya - Python, Java, C#,
- Ethan -,
+ Ethan - TypeScript, Rust, JavaScript, Nodejs, Flutter, meow,
  Claire -
 
 ## 3) General Meeting Schedule
@@ -29,13 +29,15 @@ Everyone is responsible to complete their work, which will be agreed upon earlie
 
 Please be kind and accept personal boundaries. 
 
-If you are not to be in class for ANY reasons (sickness, sports event, etc.), you MUST alert the group prior to class.  
+Be kind (for the second time!)
+
+If you are not to be in class for ANY reasons (sickness, sports event, coup of a foreign nation, etc.), you MUST alert the group prior to class.  
 
 ## 5) Roles
 
-Manager: Maya
-Presenter: Claire
-Note Taker: Ethan 
+Manager and resident awesome person: Maya
+Presenter and resident awesome person: Claire
+Note Taker and resident awesome person: Ethan 
 
 ## 6) Plan for Note-Keeping
 
@@ -49,7 +51,7 @@ Individuals will be held accountable through the team contract. Please try to co
 
 Please be chill and don't get into conflict. If something arises, we will try to solve the issue first, and then involve Ms. Feng. 
 
-## Our Git Pushes
+## Our Proof of Git Pushes
 
 ethans git push:
 
@@ -103,3 +105,7 @@ To https://github.com/clayrr/Lab-1-Team-Contract.git
    b8eff51..bebdae8  main -> main
 
 ```
+
+
+claire did a git push in "claire's commit", you can tell becuause the commit has no Verified icon next to it.
+we all pushed from command line at least once.
