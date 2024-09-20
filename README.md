@@ -10,14 +10,14 @@ Feedback:
 
 | Frees | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 |
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
-| A     |       |       |       |       |    E   |       |       |       |       |  E      |
-| B     |   M   |       |   M   |       |   M   |       |       |   M   |       |   M    |
-| C     |   C   |       | C E     |  C    | C     | C E     |       | C E    |  C    | C      |
-| D     |       |   C   | M     |  C    |    E   |   C   |  C    | M     | C     |    E    |
-| E     |    E   |   E    |   E    |   E    |       |    E   |    E   |   E    |    E   |        |
-| F     | M     |       |       |       |   E    | M     |       |       |       |    E    |
+| A     |       |       |       |       | E     |       |       |       |       | E      |
+| B     | M     |       | M     |       | M     |       |       | M     |       | M      |
+| C     | C     |       | C E   | C     | C     | C E   |       | C E   | C     | C      |
+| D     |       | C     | M     | C     | E     | C     | C     | M     | C     | E      |
+| E     | E     | E     | E     | E     |       | E     | E     | E     | E     |        |
+| F     | M     |       |       |       | E     | M     |       |       |       | E      |
 | G     |       | M     |       | M     |       | M     | M     |       | M     |        |
-| H     | M     | M E    | M     | M     | M     | M     | M     | M     | M     | M      |
+| H     | M     | M E   | M     | M     | M     | M     | M     | M     | M     | M      |
 
 ## 2) Skills 
 * Maya: Python, Java, C#,
@@ -26,7 +26,6 @@ Feedback:
 
 ## 3) General Meeting Schedule
 To meet, please [email](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to message on git to set up a common time. Check the others' schedules before asking for a meeting period.
-
 
 ## 4) Individual responsibilities
 
@@ -40,9 +39,9 @@ If you are not to be in class for ANY reasons (sickness, sports event, coup of a
 
 ## 5) Roles
 
-Manager and resident awesome person: Maya
-Presenter and resident awesome person: Claire
-Note Taker and resident awesome person: Ethan 
+* Manager and resident awesome person: Maya
+* Presenter and resident awesome person: Claire
+* Note Taker and resident awesome person: [Ethan](https://www.youtube.com/watch?v=M5V_IXMewl4)
 
 ## 6) Plan for Note-Keeping
 
