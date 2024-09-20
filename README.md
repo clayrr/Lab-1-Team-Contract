@@ -22,7 +22,7 @@ Feedback:
 ## 2) Skills 
 * Maya: Python, Java, C#,
 * Ethan: TypeScript, Rust, JavaScript, Nodejs, Flutter, meow,
-* Claire: epic!!!! skillz!!
+* Claire: Python, Java
 
 ## 3) General Meeting Schedule
 To meet, please [email](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to message on git to set up a common time. Check the others' schedules before asking for a meeting period.
