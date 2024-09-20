@@ -107,5 +107,5 @@ To https://github.com/clayrr/Lab-1-Team-Contract.git
 ```
 
 
-claire did a git push in "claire's commit", you can tell becuause the commit has no Verified icon next to it.
+claire did a git push in "claire's commit", you can tell because the commit has no Verified icon next to it.
 we all pushed from command line at least once.
