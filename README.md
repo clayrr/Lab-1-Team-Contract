@@ -27,7 +27,7 @@ Feedback:
 
 ## 3) General Meeting Schedule
 To meet, please [email](https://www.youtube.com/watch?v=dQw4w9WgXcQ) or message on git to set up a common time. Check the others' schedules before asking for a meeting period.
-Communicate through a group chat and potentially meet during break or i-period.
+Communicate through a group chat and potentially meet during break or I-period.
 
 ## 4) Individual responsibilities
 
@@ -57,9 +57,6 @@ Individuals will be held accountable through the team contract. Please try to co
 
 Please be chill and don't get into conflict. If something arises, we will try to solve the issue first, and then involve Ms. Feng. 
 
-## 9) Strategies
-
-To meet up without a shared free period, we will email and cry.
 
 ## Our Proof of Git Pushes
 
