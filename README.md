@@ -1,26 +1,31 @@
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ms fengs feedback:
+Feedback: 
 
+- [x] If you are gonna rick roll, use it as a surprise. Hide the link somewhere. It can't be the first thing I see!! 
+- [x] Where are ethans frees? Where are Claire's skills? I know both those things exist! 
+- [x] Since you do not share any frees in which the whole group is free, what is your strategy to sync up? 
+- [x] Please find some time before class Wednesday to discuss as a group and make changes to incorporate the feedback.
 
 ## 1) Schedule
 
 | Frees | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 |
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
-| A     |       |       |       |       |       |       |       |       |       |        |
+| A     |       |       |       |       |    E   |       |       |       |       |  E      |
 | B     |   M   |       |   M   |       |   M   |       |       |   M   |       |   M    |
-| C     |   C   |       | C     |  C    | C     | C     |       | C     |  C    | C      |
-| D     |       |   C   | M     |  C    |       |   C   |  C    | M     | C     |        |
-| E     |       |       |       |       |       |       |       |       |       |        |
-| F     | M     |       |       |       |       | M     |       |       |       |        |
+| C     |   C   |       | C E     |  C    | C     | C E     |       | C E    |  C    | C      |
+| D     |       |   C   | M     |  C    |    E   |   C   |  C    | M     | C     |    E    |
+| E     |    E   |   E    |   E    |   E    |       |    E   |    E   |   E    |    E   |        |
+| F     | M     |       |       |       |   E    | M     |       |       |       |    E    |
 | G     |       | M     |       | M     |       | M     | M     |       | M     |        |
-| H     | M     | M     | M     | M     | M     | M     | M     | M     | M     | M      |
+| H     | M     | M E    | M     | M     | M     | M     | M     | M     | M     | M      |
 
 ## 2) Skills 
-Maya - Python, Java, C#,
- Ethan - TypeScript, Rust, JavaScript, Nodejs, Flutter, meow,
- Claire -
+* Maya: Python, Java, C#,
+* Ethan: TypeScript, Rust, JavaScript, Nodejs, Flutter, meow,
+* Claire: epic!!!! skillz!!
 
 ## 3) General Meeting Schedule
-To meet, please email to message on git to set up a common time. Check the others' schedules before asking for a meeting period.
+To meet, please [email](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to message on git to set up a common time. Check the others' schedules before asking for a meeting period.
 
 
 ## 4) Individual responsibilities
@@ -50,6 +55,10 @@ Individuals will be held accountable through the team contract. Please try to co
 ## 8) Conflict
 
 Please be chill and don't get into conflict. If something arises, we will try to solve the issue first, and then involve Ms. Feng. 
+
+## 9) Strategies
+
+To meet up without a shared free period, we will email and cry.
 
 ## Our Proof of Git Pushes
 
